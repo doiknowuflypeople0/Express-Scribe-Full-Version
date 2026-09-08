@@ -237,3 +237,6 @@ This repository serves as the official landing page for Express Scribe. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Express Scribe today!**
+
+---
+**Last updated:** 2026-09-08 21:32:54 UTC
