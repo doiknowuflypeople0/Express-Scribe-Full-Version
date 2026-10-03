@@ -239,4 +239,4 @@ This repository serves as the official landing page for Express Scribe. The soft
 **Get the most recent version of Express Scribe today!**
 
 ---
-**Last updated:** 2026-10-03 19:43:11 UTC
+**Last updated:** 2026-10-03 22:39:28 UTC
